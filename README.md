@@ -9,7 +9,7 @@ This mobile app not only showcases the parks but also enriches your visit with f
 🔨Technologies: SwiftUI for a modern and responsive user interface, Swift for robust app performance, and iOS SDK for integration with the latest iOS features. The app also utilizes Xcode as the development environment, ensuring a smooth build process. Developed as a passion project.
 🚀Platform: 📱iOS
 <p align="center">
-<a href="https://github.com/RayPops/kws-app" target="_blank"><img src="images/kws-app/kws-app.png" width="900" title="KWS Park Explorer App"></a>
+<a href="https://github.com/RayPops/kws-app" target="_blank"><img src="kws-app.png" width="900" title="KWS Park Explorer App"></a>
 </p>
 
 *Do not hesitate to contact me if you would like to get a promo code to have a look at any of my indie apps.*
