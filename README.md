@@ -12,4 +12,16 @@ This mobile app not only showcases the parks but also enriches your visit with f
 <a href="https://github.com/RayPops/kws-app" target="_blank"><img src="kws-app.png" width="900" title="KWS Park Explorer App"></a>
 </p>
 
-*Do not hesitate to contact me if you would like to get a promo code to have a look at any of my indie apps.*
+## Wandering Creatives 🎨
+[Wandering Creatives](https://github.com/RayPops/wandering-creatives-app) is an innovative platform dedicated to empowering creative professionals across the UK. With a focus on simplifying the job hunt for those requiring visa sponsorship, our app centralizes creative job listings, making them accessible and manageable.
+
+The app features an intuitive map interface, implemented with MapKit, which showcases job opportunities in various creative fields. From graphic design to audio production, Wandering Creatives is a hub for job seekers to find their next career step within the creative industry.
+
+Additionally, the app allows for a seamless sign-in experience with Apple's secure authentication, ensuring user privacy and convenience. Each job listing is detailed and includes essential information about the role and the company, giving users the insight they need to make informed decisions.
+
+🔨Technologies: Designed with Swift UI for an elegant and user-friendly interface, and the backend powered by Swift, the app offers robust performance and a seamless user experience. The development process was facilitated by Xcode, which provided a stable and efficient environment for app creation.
+🚀Platform: 📱iOS
+<p align="center">
+<a href="https://github.com/RayPops/wandering-creatives-app" target="_blank"><img src="wanderingcreatives.png" width="900" title="Wandering Creatives App"></a>
+</p>
+
